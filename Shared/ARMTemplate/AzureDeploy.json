@@ -511,8 +511,7 @@
                         "evaluatorType": "MaxValuePolicy",
                         "status": "enabled"
                     }
-                },
-                {
+                },                {
                     "apiVersion": "2016-05-15",
                     "name": "default/AllowedVmSizesInLab",
                     "type": "policysets/policies",
@@ -554,8 +553,7 @@
                 "password": "[variables('dtlVmPassword')]",
                 "isAuthenticationWithSshKey": false,
                 "disallowPublicIpAddress": false,
-                "allowClaim": false,
-                "artifacts": []
+                "allowClaim": false
             }
         }
     ],
