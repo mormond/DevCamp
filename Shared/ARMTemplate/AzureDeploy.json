@@ -555,10 +555,7 @@
                 "isAuthenticationWithSshKey": false,
                 "disallowPublicIpAddress": false,
                 "allowClaim": false,
-                "artifacts": [
-                        ]
-                    }
-                ]
+                "artifacts": []
             }
         }
     ],
